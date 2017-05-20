@@ -9,3 +9,5 @@ ANS: forks-- creating a copy of others repository to your origin
      clones-- copy repository to local
      branchs -- different independent commits, can be updated separatly, can be merged together later on.
  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans: easily find the difference of remote change and local change.

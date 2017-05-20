@@ -11,4 +11,12 @@ Answer :
     Cons: sometimes may forget to create commit.
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-Answer: Git is much better for control code version because multiple file have functions related to each other, so they need to edit simultaneousl 为wefwef
+Answer: Git is much better for control code version because multiple file have functions related to each other, so they need to edit simultaneousl 为wefwef 
+weflinlglinwefg
+
+awefaw
+
+awefaw
+
+afagwef
+
